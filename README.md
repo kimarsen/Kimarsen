@@ -1,4 +1,8 @@
-## Hi there 👋
+## kimarsen.
+Автор саундтрека для Beneath the Cardboard: Be Happy
+Композитор в Lunsemo Studio
+Гейм-девелопер любитель:
+Работаю над ремейком Beneath the Cardboard на Unreal Engine 5 в прошлом и Godot Engine сейчас.
 
 <!--
 **kimarsen/Kimarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
