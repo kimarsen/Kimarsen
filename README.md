@@ -54,11 +54,11 @@ Bridging low-level systems programming with modern AI-accelerated delivery.
 - **[Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam)**:
   - **Mechanics & Systems (Unreal Engine):** Designed and implemented NPC behaviors, quest systems, and narrative/storytelling gameplay mechanics.
   - **Migration & Comprehensive Engineering (Godot Engine):** Carried out the complete migration of the project to Godot Engine 4.x and took charge of comprehensive full-cycle development and optimization.
-  - **Audio & Media Direction:** Fully composed and produced the game soundtrack (OST) in FL Studio, and created promotional media content for the game.
+  - **Audio & Media Direction:** Fully composed and produced the game soundtrack (OST) in FL Studio, and created promotional media content for the game & worked with community.
   - **Team Infrastructure:** Built dedicated Discord bots and internal automation utilities for the team.
 
 #### 🌐 **Independent Development & Prototypes**
-- **Browser Game Publishing:** Developed and published web titles on the **Yandex Games** platform with focus on responsive input and lightweight asset delivery.
+- **Browser Game Publishing:** Developed and published web titles on the **Yandex Games** platform with focus on responsive input and lightweight asset delivery, using Yandex SDK.
 - **Academic & Professional Prototypes:** Building private projects, gameplay prototypes, and systems architectures as part of professional software engineering education.
 
 ---
@@ -106,7 +106,7 @@ I explore complex systems, build autonomous AI toolchains, experiment with new i
 
 #### 🕹️ Опыт и проекты:
 - **[Lunsemo Studio](https://github.com/Lunsemo-Studio) (Core Developer & Композитор):**
-  - Проект [Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam): занимался разработкой NPC и квестовых, сторителлинг механик на Unreal Engine, проводил полный перенос и дальнейшую всеобъемлющую разработку на Godot Engine. Полностью написал саундтрек и занимался созданием медиа-контента по игре.
+  - Проект [Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam): занимался разработкой NPC и квестовых, сторителлинг механик на Unreal Engine, проводил полный перенос и дальнейшую всеобъемлющую разработку на Godot Engine. Полностью написал саундтрек и занимался созданием медиа-контента по игре, а также работал с сообществом.
   - Разработка Discord-ботов и утилит для автоматизации рабочих процессов команды.
 - **Самостоятельная деятельность:**
   - Разработка и публикация веб-игр для платформы **Яндекс Игры**.
