@@ -22,7 +22,7 @@ Bridging low-level systems programming with modern AI-accelerated delivery.
   <img src="https://img.shields.io/badge/Godot_Engine_4.x-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="26" alt="Godot Engine" />
   <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" height="26" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="26" alt="Unity" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="26" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" height="26" alt="Rust" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="26" alt="Git" />
 </p>
 
@@ -50,7 +50,7 @@ Bridging low-level systems programming with modern AI-accelerated delivery.
 
 ### 🕹️ Experience & Projects
 
-#### 🚀 **Lunsemo Studio** — Core Developer & Audio Lead
+#### 🚀 **[Lunsemo Studio](https://github.com/Lunsemo-Studio)** — Core Developer & Audio Lead
 - **[Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam)**:
   - **Mechanics & Systems (Unreal Engine):** Designed and implemented NPC behaviors, quest systems, and narrative/storytelling gameplay mechanics.
   - **Migration & Comprehensive Engineering (Godot Engine):** Carried out the complete migration of the project to Godot Engine 4.x and took charge of comprehensive full-cycle development and optimization.
@@ -105,7 +105,7 @@ I explore complex systems, build autonomous AI toolchains, experiment with new i
 - **Аудио и визуал:** Написание игровых саундтреков (OST), сведение и саунд-дизайн в **FL Studio**. Базовая работа с 2D-графикой, текстурами и UI в **Krita** и **Paint.NET**.
 
 #### 🕹️ Опыт и проекты:
-- **Lunsemo Studio (Core Developer & Композитор):**
+- **[Lunsemo Studio](https://github.com/Lunsemo-Studio) (Core Developer & Композитор):**
   - Проект [Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam): занимался разработкой NPC и квестовых, сторителлинг механик на Unreal Engine, проводил полный перенос и дальнейшую всеобъемлющую разработку на Godot Engine. Полностью написал саундтрек и занимался созданием медиа-контента по игре.
   - Разработка Discord-ботов и утилит для автоматизации рабочих процессов команды.
 - **Самостоятельная деятельность:**
