@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Kimarsen
 
-**Game Developer • Agentic AI Practitioner • Creative Engineer**
+**Game Developer (Junior-Middle) • Agentic AI Practitioner • Creative Engineer**
 
 I build modular game systems, orchestrate autonomous AI agent workflows, and leverage my skillset to create engaging game content.<br>
 Bridging low-level systems programming with modern AI-accelerated delivery.
