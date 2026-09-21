@@ -1,11 +1,9 @@
 ### 👋 Hi, I'm Kimarsen
 
-**Game Systems Developer • Agentic AI Practitioner • Creative Technologist**
+**Game Developer • Agentic AI Practitioner • Creative Engineer**
 
 I build modular game systems, orchestrate autonomous AI agent workflows, and leverage my skillset to create engaging game content.<br>
 Bridging low-level systems programming with modern AI-accelerated delivery.
-
-**Engine-level code. Agent-accelerated velocity. Human-directed vision.**
 
 <pre>
 🎮 Game Dev        • Godot Engine 4.x (GDScript / C++) • Unreal Engine 5 • Unity
@@ -67,7 +65,7 @@ Bridging low-level systems programming with modern AI-accelerated delivery.
 
 ### 🌤️ Outside the terminal
 
-I explore complex systems, build autonomous AI toolchains, experiment with new internet frontiers, and test bleeding-edge software. When away from the keyboard, I compose music, study interactive mechanics, and follow the indie game scene.
+I explore complex systems, build autonomous AI toolchains, experiment with new internet frontiers, and test bleeding-edge software.
 
 🇷🇺 **Native Russian speaker** • 🇬🇧 **Working English** (Conversational & Technical) • 🇩🇪 **Conversational German**
 
@@ -93,12 +91,12 @@ I explore complex systems, build autonomous AI toolchains, experiment with new i
 
 ### 👋 Привет, я Kimarsen
 
-**Разработчик игровых систем • Практик агентных нейросетей • Креативный технолог**
+**Разработчик игровых систем • Практик агентных нейросетей • Креативный инженер**
 
-Разрабатываю модульные игровые системы, выстраиваю пайплайны на базе автономных AI-агентов и, используя свои навыки, создаю увлекательный игровой контент. Объединяю системное низкоуровневое программирование со скоростью разработки нового поколения.
+Разрабатываю модульные игровые системы, выстраиваю пайплайны на базе автономных AI-агентов и, используя свои навыки, создаю увлекательный игровой контент. Объединяю системное низкоуровневое программирование со скоростью новой агентной разработки.
 
 #### 💻 Стек и технические компетенции:
-- **C++ и системное проектирование:** Изучение и применение стандартов Modern C++, принципов объектно-ориентированного программирования (ООП), идиомы RAII, управления памятью, базовых структур данных и алгоритмов.
+- **C++ и системное проектирование:** Изучение и применение стандартов C++, принципов объектно-ориентированного программирования, RAII, управления памятью, базовых структур данных (data-driven) и алгоритмов.
 - **Игровая разработка и движки:**
   - **Godot Engine 4.x (Основной стек):** Архитектура сцен и нод, GDScript, модульная логика, физика, UI и экспорт. Опыт коммерческой разработки, а также создание прототипов для учебных целей и последующей публикации на игровых площадках.
   - **Unreal Engine 5:** Опыт коммерческой разработки, архитектурная структура, работа с Blueprints и C++.
