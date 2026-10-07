@@ -1,15 +1,15 @@
 ### 👋 Hi, I'm Kimarsen
 
-**Game Developer (Junior-Middle) • Agentic AI Practitioner • Creative Engineer**
+**Game Developer • Technical Generalist • AI-Accelerated Engineering**
 
-I build modular game systems, orchestrate autonomous AI agent workflows, and leverage my skillset to create engaging game content.<br>
-Bridging low-level systems programming with modern AI-accelerated delivery.
+I build modular gameplay systems, ship games across platforms, and leverage modern AI toolchains to prototype and iterate fast.<br>
+Passionate about gameplay architecture, indie game development, and deepening systems programming foundations.
 
 <pre>
-🎮 Game Dev        • Godot Engine 4.x (GDScript / C++) • Unreal Engine 5 • Unity
-⚡ Systems & Core   • Modern C++ and Rust (OOP, RAII, Memory Architecture, Low-level Systems)
-🤖 Agentic AI      • Cursor • Google Antigravity • Claude Code • Windsurf • Devin • Codex • OpenClaw
-🎵 Audio & Visual  • FL Studio (Game OST & Scoring) • Krita • Paint.NET
+🎮 Game Dev        • Godot Engine 4.x (GDScript) • Unreal Engine 5 • Unity
+⚡ Systems & Core   • C++, Rust, Python (Core Foundations, OOP, Data Structures, CLI tooling)
+🤖 AI Tooling      • Cursor • Google Antigravity • Claude Code • Windsurf • GitHub Copilot
+🎵 Audio & Visual  • FL Studio (Original Game OST & Audio Design) • Krita • Paint.NET
 🌐 Languages       • Russian (Native) • English (Working/B2) • German (Conversational)
 </pre>
 
@@ -18,24 +18,22 @@ Bridging low-level systems programming with modern AI-accelerated delivery.
 ### 🛠️ Tech Stack & Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="26" alt="C++" />
   <img src="https://img.shields.io/badge/Godot_Engine_4.x-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="26" alt="Godot Engine" />
   <img src="https://img.shields.io/badge/Unreal_Engine_5-313131?style=flat-square&logo=unrealengine&logoColor=white" height="26" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="26" alt="Unity" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" height="26" alt="C++" />
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" height="26" alt="Rust" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="26" alt="Git" />
 </p>
 
-### 🤖 AI Agentic Toolchain & Automation
+### 🤖 AI-Accelerated Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="26" alt="Cursor" />
   <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" height="26" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" height="26" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Windsurf-0284C7?style=flat-square&logo=codeium&logoColor=white" height="26" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" height="26" alt="Codex" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="26" alt="Copilot" />
-  <img src="https://img.shields.io/badge/OpenClaw-FF6F00?style=flat-square&logo=robot&logoColor=white" height="26" alt="OpenClaw" />
 </p>
 
 ### 🎨 Creative & Media
@@ -52,22 +50,23 @@ Bridging low-level systems programming with modern AI-accelerated delivery.
 
 #### 🚀 **[Lunsemo Studio](https://github.com/Lunsemo-Studio)** — Core Developer & Audio Lead
 - **[Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam)**:
-  - **Mechanics & Systems (Unreal Engine):** Designed and implemented NPC behaviors, quest systems, and narrative/storytelling gameplay mechanics.
-  - **Migration & Comprehensive Engineering (Godot Engine):** Carried out the complete migration of the project to Godot Engine 4.x and took charge of comprehensive full-cycle development and optimization.
-  - **Audio & Media Direction:** Fully composed and produced the game soundtrack (OST) in FL Studio, and created promotional media content for the game & worked with community.
-  - **Team Infrastructure:** Built dedicated Discord bots and internal automation utilities for the team.
+  - **Migration & Comprehensive Engineering (Godot Engine):** Carried out the complete project migration from Unreal Engine to Godot Engine 4.x; architected core scenes, modular gameplay systems, UI, and performance optimization.
+  - **Mechanics & Systems (Unreal Engine):** Designed and implemented NPC behaviors, quest sequences, and narrative storytelling mechanics.
+  - **Audio & Media Direction:** Fully composed and produced the game soundtrack (OST) in FL Studio; created promotional media assets and engaged with the community.
+  - **Team Tooling & Infrastructure:** Built internal Discord bots and automation scripts to streamline daily team tasks.
 
-#### 🌐 **Independent Development & Prototypes**
-- **Browser Game Publishing:** Developed and published web titles on the **Yandex Games** platform with focus on responsive input and lightweight asset delivery, using Yandex SDK.
-- **Academic & Professional Prototypes:** Building private projects, gameplay prototypes, and systems architectures as part of professional software engineering education.
+#### 🌐 **Independent Projects & Automation**
+- **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Real-time automated background file watcher and converter utilizing FFmpeg.
+- **Web Games (Yandex Games):** Developed and published browser games integrated with platform SDK, lightweight asset delivery, and responsive controls.
+- **Continuous Learning & Prototypes:** Building gameplay mechanics, studying low-level data structures, and practicing clean software engineering patterns.
 
 ---
 
 ### 🌤️ Outside the terminal
 
-I explore complex systems, build autonomous AI toolchains, experiment with new internet frontiers, and test bleeding-edge software.
+Positive, eccentric, and creative 19 y/o software engineering student. Passionate about exploring new tech frontiers on the web and building with AI agents. Always open to networking, collaboration, and exciting joint projects!
 
-🇷🇺 **Native Russian speaker** • 🇬🇧 **Working English** (Conversational & Technical) • 🇩🇪 **Conversational German**
+🇷🇺 **Native Russian speaker** • 🇬🇧 **Working English** (B2) • 🇩🇪 **Conversational German**
 
 <br>
 
@@ -91,30 +90,33 @@ I explore complex systems, build autonomous AI toolchains, experiment with new i
 
 ### 👋 Привет, я Kimarsen
 
-**Разработчик игр (Junior-Middle) • Практик агентных нейросетей • Креативный инженер**
+**Разработчик игр • Технический универсал (Generalist) • AI-Accelerated разработка**
 
-Разрабатываю модульные игровые системы, выстраиваю пайплайны на базе автономных AI-агентов и, используя свои навыки, создаю увлекательный игровой контент. Объединяю системное низкоуровневое программирование со скоростью новой агентной разработки.
+Разрабатываю модульные геймплейные системы, довожу игры до релиза на различных платформах и использую современные AI-инструменты как усилитель продуктивности для быстрого прототипирования и решения задач.
 
 #### 💻 Стек и технические компетенции:
-- **C++ и системное проектирование:** Изучение и применение стандартов C++, принципов объектно-ориентированного программирования, RAII, управления памятью, базовых структур данных (data-driven) и алгоритмов.
 - **Игровая разработка и движки:**
-  - **Godot Engine 4.x (Основной стек):** Архитектура сцен и нод, GDScript, модульная логика, физика, UI и экспорт. Опыт коммерческой разработки, а также создание прототипов для учебных целей и последующей публикации на игровых площадках.
-  - **Unreal Engine 5:** Опыт коммерческой разработки, архитектурная структура, работа с Blueprints и C++.
-  - **Unity:** Опыт создания прототипов на C#, компонентно-ориентированный подход.
-- **Агентные нейросети и AI-пайплайны:** Уверенное владение передовыми инструментами автономной разработки: **Cursor**, **Google Antigravity**, **Claude Code**, **Windsurf / Devin**, **OpenAI Codex**, **OpenClaw**, **GitHub Copilot**. Построение агентных воркфлоу, автоматизация рутинных задач, глубокое исследование передовых моделей для создания собственных систем.
-- **Аудио и визуал:** Написание игровых саундтреков (OST), сведение и саунд-дизайн в **FL Studio**. Базовая работа с 2D-графикой, текстурами и UI в **Krita** и **Paint.NET**.
+  - **Godot Engine 4.x (Основной стек):** Архитектура сцен и нод, GDScript, компонентный подход, физика, UI, оптимизация и экспорт. Опыт коммерческой разработки и полного цикла релиза.
+  - **Unreal Engine 5:** Логика поведения NPC, квестовые цепочки, Blueprints, работа с игровыми механиками.
+  - **Unity:** Прототипирование на C#, компонентная архитектура.
+- **Языки и системный фундамент (C++, Rust, Python):** Изучение базовых структур данных и алгоритмов, ООП, разработка прикладных утилит (например, фоновый файловый конвертер на Rust).
+- **AI-инструменты ускорения разработки:** **Cursor**, **Google Antigravity**, **Claude Code**, **Windsurf**, **GitHub Copilot**. Применение AI для ускорения написания кода, быстрой валидации идей и автоматизации рутины.
+- **Аудио и медиа:** Полное написание саундтреков (OST), саунд-дизайн и сведение в **FL Studio**. 2D-графика, UI и текстуры в **Krita** и **Paint.NET**.
 
 #### 🕹️ Опыт и проекты:
 - **[Lunsemo Studio](https://github.com/Lunsemo-Studio) (Core Developer & Композитор):**
-  - Проект [Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam): занимался разработкой NPC и квестовых, сторителлинг механик на Unreal Engine, проводил полный перенос и дальнейшую всеобъемлющую разработку на Godot Engine. Полностью написал саундтрек и занимался созданием медиа-контента по игре, а также работал с сообществом.
-  - Разработка Discord-ботов и утилит для автоматизации рабочих процессов команды.
-- **Самостоятельная деятельность:**
-  - Разработка и публикация веб-игр для платформы **Яндекс Игры**.
-  - Разработка закрытых проектов в рамках профессионального обучения по специальности разработчика программного обеспечения.
+  - **[Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam):** Перенес проект с Unreal Engine на Godot Engine 4.x и занимался дальнейшей разработкой архитектуры и геймплейных систем. Разрабатывал поведение NPC и квесты. Полностью написал саундтрек игры в FL Studio и готовил медиа-материалы.
+  - Разработка внутренних Discord-ботов и утилит автоматизации для команды.
+- **Самостоятельная разработка:**
+  - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Утилита для автоматического отслеживания и пакетной конвертации медиа-файлов через FFmpeg.
+  - Разработка и публикация веб-игр для платформы **Яндекс Игры** (интеграция SDK, адаптация управления).
+
+#### 🌤️ Вне терминала:
+Позитивный, эксцентричный и творческий парень, 19 лет, учусь на разработчика программного обеспечения. Очень люблю открывать что-то новое в интернете и работать с ИИ-агентами вместе с этим. Открыт к полезным знакомствам, сотрудничеству и совместным проектам!
 
 #### 🌐 Языки:
 - 🇷🇺 **Русский** — Родной
-- 🇬🇧 **Английский** — Уверенный разговорный и технический (B2)
+- 🇬🇧 **Английский** — Уверенный рабочий (B2)
 - 🇩🇪 **Немецкий** — Разговорный
 
 #### 📬 Связь:
