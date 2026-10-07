@@ -7,7 +7,7 @@ Bridging low-level systems programming with modern AI-accelerated delivery.
 
 <pre>
 🎮 Game Dev        • Godot Engine 4.x (GDScript / C++) • Unreal Engine 5 • Unity
-⚡ Systems & Core   • Modern C++ (OOP, RAII, Memory Architecture, Low-level Systems)
+⚡ Systems & Core   • Modern C++ and Rust (OOP, RAII, Memory Architecture, Low-level Systems)
 🤖 Agentic AI      • Cursor • Google Antigravity • Claude Code • Windsurf • Devin • Codex • OpenClaw
 🎵 Audio & Visual  • FL Studio (Game OST & Scoring) • Krita • Paint.NET
 🌐 Languages       • Russian (Native) • English (Working/B2) • German (Conversational)
