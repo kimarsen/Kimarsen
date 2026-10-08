@@ -1,3 +1,11 @@
+<div align="center">
+  <a href="https://mynickname.com/id1847486" target="_blank">
+    <img src="https://mynickname.com/forum2t5/kimarsen.gif" alt="Nickname Certificate" />
+  </a>
+</div>
+
+<br>
+
 ### 👋 Hello there
 
 **I'm junior Game Developer • Technical Generalist • Open to collaborate**
@@ -8,7 +16,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 <pre>
 🎮 Game Dev        • Godot Engine 4.x (Main) • Unreal Engine 5 • Unity
 ⚡ Systems & Core  • C++, Rust, Python (Core Foundations, OOP, Data Structures, CLI tooling)
-🤖 AI Tooling      • Cursor • Google Antigravity • Claude Code • Windsurf • OpenAI Codex • GitHub Copilot
+🤖 AI Tooling      • Cursor • Google Antigravity • Claude Code • Windsurf • OpenAI Codex • OpenClaw • GitHub Copilot
 🎵 Audio & Visual  • FL Studio (Original Game OST & Audio Design) • Krita • Paint.NET • CapCut for media
 🌐 Languages       • Russian (Native) • English (Working/B2) • German (Conversational)
 </pre>
@@ -34,6 +42,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" height="26" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Windsurf-0284C7?style=flat-square&logo=codeium&logoColor=white" height="26" alt="Windsurf" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" height="26" alt="Codex" />
+  <img src="https://img.shields.io/badge/OpenClaw-FF6F00?style=flat-square&logo=robot&logoColor=white" height="26" alt="OpenClaw" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="26" alt="Copilot" />
 </p>
 
@@ -102,7 +111,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
   - **Unreal Engine 5:** Логика поведения NPC, квестовые цепочки, Blueprints, работа с игровыми механиками.
   - **Unity:** Прототипирование на C#, компонентная архитектура.
 - **Языки и системный фундамент (C++, Rust, Python):** Изучение базовых структур данных и алгоритмов, ООП, разработка прикладных утилит.
-- **AI-инструменты ускорения разработки:** **Cursor**, **Google Antigravity**, **Claude Code**, **Windsurf**, **OpenAI Codex**, **GitHub Copilot**. Применение AI для ускорения написания кода, быстрой валидации идей и автоматизации рутины.
+- **AI-инструменты ускорения разработки:** **Cursor**, **Google Antigravity**, **Claude Code**, **Windsurf**, **OpenAI Codex**, **OpenClaw**, **GitHub Copilot**. Применение AI для ускорения написания кода, быстрой валидации идей и автоматизации рутины.
 - **Аудио и медиа:** Полное написание саундтреков (OST), саунд-дизайн и сведение в **FL Studio**. 2D-графика, UI и текстуры в **Krita** и **Paint.NET**. CapCut для медиа.
 
 #### 🕹️ Опыт и проекты:
