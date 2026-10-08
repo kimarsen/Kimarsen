@@ -59,7 +59,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 #### 🌐 **Independent Projects & Automation**
 - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Real-time automated background file watcher and converter utilizing FFmpeg.
 - **Web Games (Yandex Games):** Developed and published browser games integrated with platform SDK, lightweight asset delivery, and responsive controls.
-- **Continuous Learning & Prototypes:** Building gameplay mechanics, studying low-level data structures, and practicing clean software engineering patterns.
+- **Prototypes & Continuous Learning:** Private repos with my college and solo projects, studying low-level data structures, and practicing clean software engineering patterns.
 
 ---
 
