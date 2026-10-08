@@ -6,7 +6,7 @@ I build modular gameplay systems, sometimes ship games across platforms, and lev
 Passionate about gameplay architecture, indie game development, and deepening systems programming foundations.
 
 <pre>
-🎮 Game Dev        • Main is Godot Engine 4.x (GDScript) • Unreal Engine 5 • Unity
+🎮 Game Dev        • Godot Engine 4.x (Main) • Unreal Engine 5 • Unity
 ⚡ Systems & Core  • C++, Rust, Python (Core Foundations, OOP, Data Structures, CLI tooling)
 🤖 AI Tooling      • Cursor • Google Antigravity • Claude Code • Windsurf • OpenAI Codex • GitHub Copilot
 🎵 Audio & Visual  • FL Studio (Original Game OST & Audio Design) • Krita • Paint.NET • CapCut for media
