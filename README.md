@@ -1,8 +1,8 @@
-### 👋 Hi, I'm Kimarsen
+### 👋 Hello there, I'm Kimarsen
 
 **Game Developer • Technical Generalist • AI-Accelerated Engineering**
 
-I build modular gameplay systems, ship games across platforms, and leverage modern AI toolchains to prototype and iterate fast.<br>
+I build modular gameplay systems, sometimes ship games across platforms, and leverage AI toolchains to prototype and iterate fast.<br>
 Passionate about gameplay architecture, indie game development, and deepening systems programming foundations.
 
 <pre>
@@ -65,7 +65,8 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 
 ### 🌤️ Outside the terminal
 
-Positive, eccentric, and creative 19 y/o software engineering student. Passionate about exploring new tech frontiers on the web and building with AI agents. Always open to networking, collaboration, and exciting joint projects!
+Positive, eccentric, and creative 19 y/o software engineering student. Passionate about exploring new tech frontiers on the web and building with AI agents. 
+**Always open to networking, collaboration, and exciting joint projects!**
 
 🇷🇺 **Native Russian speaker** • 🇬🇧 **Working English** (B2) • 🇩🇪 **Conversational German**
 
