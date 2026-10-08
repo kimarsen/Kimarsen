@@ -1,4 +1,6 @@
-### 👋 Hello there
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=F85149&width=350&lines=Hello+there!;Привет!;Hallo!;你好!" alt="Typing SVG" />
+</div>
 
 <div align="left">
   <sub><em>Click the image! 100% not rickroll</em></sub><br>
@@ -95,6 +97,12 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 
 <div align="center">
   <img src="https://count.getloli.com/@kimarsen?name=kimarsen&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Visitors Count" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kimarsen&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
