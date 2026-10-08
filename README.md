@@ -75,7 +75,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
   <a href="https://t.me/kimarsenn" target="_blank">
     <img src="./assets/buttons/telegram.svg" height="28" alt="Telegram">
   </a>
-  <a href="https://github.com/kimarsen" target="_blank">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1" target="_blank">
     <img src="./assets/buttons/github.svg" height="28" alt="GitHub">
   </a>
 </div>
