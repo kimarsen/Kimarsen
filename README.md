@@ -93,7 +93,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 
 ---
 
-### 📊 Visitors Count
+### 📊 Funny github stats (Visitors and streak)
 
 <div align="center">
   <img src="https://count.getloli.com/@kimarsen?name=kimarsen&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Visitors Count" />
