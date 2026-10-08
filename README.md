@@ -7,7 +7,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 
 <pre>
 🎮 Game Dev        • Godot Engine 4.x (GDScript) • Unreal Engine 5 • Unity
-⚡ Systems & Core   • C++, Rust, Python (Core Foundations, OOP, Data Structures, CLI tooling)
+⚡ Systems & Core  • C++, Rust, Python (Core Foundations, OOP, Data Structures, CLI tooling)
 🤖 AI Tooling      • Cursor • Google Antigravity • Claude Code • Windsurf • OpenAI Codex • GitHub Copilot
 🎵 Audio & Visual  • FL Studio (Original Game OST & Audio Design) • Krita • Paint.NET
 🌐 Languages       • Russian (Native) • English (Working/B2) • German (Conversational)
@@ -59,7 +59,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 #### 🌐 **Independent Projects & Automation**
 - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Real-time automated background file watcher and converter utilizing FFmpeg.
 - **Web Games (Yandex Games):** Developed and published browser games integrated with platform SDK, lightweight asset delivery, and responsive controls.
-- **Prototypes & Continuous Learning:** Private repos with my college and solo projects, studying low-level data structures, and practicing clean software engineering patterns.
+- **Prototypes & Continuous Learning:** Private repositories for academic and personal projects, exploring low-level programming and data structures, and applying clean software engineering principles.
 
 ---
 
