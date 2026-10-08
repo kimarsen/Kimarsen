@@ -1,15 +1,15 @@
 ### 👋 Hello there
 
-**Game Developer • Technical Generalist • AI-Accelerated Engineering**
+**I'm junior Game Developer • Technical Generalist • Open to collaborate**
 
 I build modular gameplay systems, sometimes ship games across platforms, and leverage AI toolchains to prototype and iterate fast.<br>
 Passionate about gameplay architecture, indie game development, and deepening systems programming foundations.
 
 <pre>
-🎮 Game Dev        • Godot Engine 4.x (GDScript) • Unreal Engine 5 • Unity
+🎮 Game Dev        • Main is Godot Engine 4.x (GDScript) • Unreal Engine 5 • Unity
 ⚡ Systems & Core  • C++, Rust, Python (Core Foundations, OOP, Data Structures, CLI tooling)
 🤖 AI Tooling      • Cursor • Google Antigravity • Claude Code • Windsurf • OpenAI Codex • GitHub Copilot
-🎵 Audio & Visual  • FL Studio (Original Game OST & Audio Design) • Krita • Paint.NET
+🎵 Audio & Visual  • FL Studio (Original Game OST & Audio Design) • Krita • Paint.NET • CapCut for media
 🌐 Languages       • Russian (Native) • English (Working/B2) • German (Conversational)
 </pre>
 
@@ -92,7 +92,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 
 ### 👋 Привет, я Kimarsen
 
-**Разработчик игр • Технический универсал (Generalist) • AI-Accelerated разработка**
+**Разработчик игр • Технический универсал (Generalist) • Открыт к сотрудничеству**
 
 Разрабатываю модульные геймплейные системы, довожу игры до релиза на различных платформах и использую современные AI-инструменты как усилитель продуктивности для быстрого прототипирования и решения задач.
 
@@ -101,9 +101,9 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
   - **Godot Engine 4.x (Основной стек):** Архитектура сцен и нод, GDScript, компонентный подход, физика, UI, оптимизация и экспорт. Опыт коммерческой разработки и полного цикла релиза.
   - **Unreal Engine 5:** Логика поведения NPC, квестовые цепочки, Blueprints, работа с игровыми механиками.
   - **Unity:** Прототипирование на C#, компонентная архитектура.
-- **Языки и системный фундамент (C++, Rust, Python):** Изучение базовых структур данных и алгоритмов, ООП, разработка прикладных утилит (например, фоновый файловый конвертер на Rust).
+- **Языки и системный фундамент (C++, Rust, Python):** Изучение базовых структур данных и алгоритмов, ООП, разработка прикладных утилит.
 - **AI-инструменты ускорения разработки:** **Cursor**, **Google Antigravity**, **Claude Code**, **Windsurf**, **OpenAI Codex**, **GitHub Copilot**. Применение AI для ускорения написания кода, быстрой валидации идей и автоматизации рутины.
-- **Аудио и медиа:** Полное написание саундтреков (OST), саунд-дизайн и сведение в **FL Studio**. 2D-графика, UI и текстуры в **Krita** и **Paint.NET**.
+- **Аудио и медиа:** Полное написание саундтреков (OST), саунд-дизайн и сведение в **FL Studio**. 2D-графика, UI и текстуры в **Krita** и **Paint.NET**. CapCut для медиа.
 
 #### 🕹️ Опыт и проекты:
 - **[Lunsemo Studio](https://github.com/Lunsemo-Studio) (Core Developer & Композитор):**
@@ -112,6 +112,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 - **Самостоятельная разработка:**
   - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Утилита для автоматического отслеживания и пакетной конвертации медиа-файлов через FFmpeg.
   - Разработка и публикация веб-игр для платформы **Яндекс Игры** (интеграция SDK, адаптация управления).
+  - Приватные репозитории с академическими и личными проектами.
 
 #### 🌤️ Вне терминала:
 Позитивный, эксцентричный и творческий парень, 19 лет, учусь на разработчика программного обеспечения. Очень люблю открывать что-то новое в интернете и работать с ИИ-агентами вместе с этим. Открыт к полезным знакомствам, сотрудничеству и совместным проектам!
