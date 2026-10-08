@@ -1,12 +1,10 @@
 ### 👋 Hello there
 
-<div align="center">
+<div align="right">
   <a href="https://mynickname.com/id1847486" target="_blank">
     <img src="https://mynickname.com/forum2t5/kimarsen.gif" alt="Nickname Certificate" />
   </a>
 </div>
-
-<br>
 
 **I'm junior Game Developer • Technical Generalist • Open to collaborate**
 
