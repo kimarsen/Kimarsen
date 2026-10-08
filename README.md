@@ -1,4 +1,4 @@
-### 👋 Hello there, I'm Kimarsen
+### 👋 Hello there
 
 **Game Developer • Technical Generalist • AI-Accelerated Engineering**
 
