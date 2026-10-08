@@ -76,8 +76,6 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 Positive, eccentric, and creative 19 y/o software engineering student. Passionate about exploring new tech frontiers on the web and building with AI agents. 
 **Always open to networking, collaboration, and exciting joint projects!**
 
-🇷🇺 **Native Russian speaker** • 🇬🇧 **Working English** (B2) • 🇩🇪 **Conversational German**
-
 <br>
 
 <div align="center">
@@ -110,7 +108,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 
 ### 👋 Привет, я Kimarsen
 
-**Разработчик игр • Технический универсал (Generalist) • Открыт к сотрудничеству**
+**Разработчик игр • Технический универсал • Открыт к сотрудничеству**
 
 Разрабатываю модульные геймплейные системы, довожу игры до релиза на различных платформах и использую современные AI-инструменты как усилитель продуктивности для быстрого прототипирования и решения задач.
 
