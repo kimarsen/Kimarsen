@@ -1,7 +1,7 @@
 ### 👋 Hello there
 
-Click the image! 100% not rickroll
 <div align="left">
+  <sub><em>Click the image! 100% not rickroll</em></sub><br>
   <a href="https://mynickname.com/id1847486" target="_blank">
     <img src="https://mynickname.com/forum2t5/kimarsen.gif" alt="Nickname Certificate" />
   </a>
@@ -91,8 +91,12 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 
 <br>
 
+---
+
+### 📊 Visitors Count
+
 <div align="center">
-  <img src="https://count.getloli.com/@kimarsen?name=kimarsen&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Visitors Counter" />
+  <img src="https://count.getloli.com/@kimarsen?name=kimarsen&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Visitors Count" />
 </div>
 
 <br>
