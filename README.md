@@ -9,7 +9,7 @@
   </a>
 </div>
 
-**I'm junior Game Developer • Technical Generalist • Open to collaborate**
+**I'm Godot Game Developer • Technical Generalist • Open to collaborate**
 
 I build modular gameplay systems, sometimes ship games across platforms, and leverage AI toolchains to prototype and iterate fast.<br>
 Passionate about gameplay architecture, indie game development, and deepening systems programming foundations.
