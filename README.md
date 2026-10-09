@@ -69,7 +69,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 #### 🌐 **Independent Projects & Automation**
 - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Real-time automated background file watcher and converter utilizing FFmpeg.
 - **Web Games (Yandex Games):** Developed and published browser games integrated with platform SDK, lightweight asset delivery, and responsive controls.
-- **Game Modding (HOI4, Minecraft):** Creating gameplay modifications, scripting, and custom content.
+- **Game Modding (HOI4, [Minecraft](https://github.com/kimarsen/spatial-shift)):** Creating gameplay modifications, scripting, and custom content.
 - **Prototypes & Continuous Learning:** Private repositories for academic and personal projects, exploring low-level programming and data structures, and applying clean software engineering principles.
 
 ---
@@ -137,7 +137,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 - **Самостоятельная деятельность:**
   - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Утилита для автоматического отслеживания и пакетной конвертации медиа-файлов через FFmpeg.
   - Разработка и публикация веб-игр для платформы **Яндекс Игры** (интеграция SDK, адаптация управления).
-  - **Модификации для игр (HOI4, Minecraft):** Создание модов, кастомных механик, скриптов и контента.
+  - **Модификации для игр (HOI4, [Minecraft](https://github.com/kimarsen/spatial-shift)):** Создание модов, кастомных механик, скриптов и контента.
   - Приватные репозитории с академическими и личными проектами.
 
 #### 🌤️ Вне терминала:
