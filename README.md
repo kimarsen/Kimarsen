@@ -69,6 +69,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 #### 🌐 **Independent Projects & Automation**
 - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Real-time automated background file watcher and converter utilizing FFmpeg.
 - **Web Games (Yandex Games):** Developed and published browser games integrated with platform SDK, lightweight asset delivery, and responsive controls.
+- **Game Modding (HOI4, Minecraft):** Creating gameplay modifications, scripting, and custom content.
 - **Prototypes & Continuous Learning:** Private repositories for academic and personal projects, exploring low-level programming and data structures, and applying clean software engineering principles.
 
 ---
@@ -133,9 +134,10 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 - **[Lunsemo Studio](https://github.com/Lunsemo-Studio) (Core Developer & Композитор):**
   - **[Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam):** Перенес проект с Unreal Engine на Godot Engine 4.x и занимался дальнейшей разработкой архитектуры и геймплейных систем. Разрабатывал поведение NPC и квесты. Полностью написал саундтрек игры в FL Studio и готовил медиа-материалы.
   - Разработка внутренних Discord-ботов и утилит автоматизации для команды.
-- **Самостоятельная разработка:**
+- **Самостоятельная деятельность:**
   - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Утилита для автоматического отслеживания и пакетной конвертации медиа-файлов через FFmpeg.
   - Разработка и публикация веб-игр для платформы **Яндекс Игры** (интеграция SDK, адаптация управления).
+  - **Модификации для игр (HOI4, Minecraft):** Создание модов, кастомных механик, скриптов и контента.
   - Приватные репозитории с академическими и личными проектами.
 
 #### 🌤️ Вне терминала:
