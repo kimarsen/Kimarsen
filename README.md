@@ -16,9 +16,9 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 
 <pre>
 🎮 Game Dev        • Godot Engine 4.x (Main) • Unreal Engine 5 • Unity
-⚡ Systems & Core  • C++, Rust, Python (Core Foundations, OOP, Data Structures, CLI tooling)
+⚡ Systems & Core  • C++, Rust, Python (RAII, Data Structures, CLI tooling)
 🤖 AI Tooling      • Cursor • Google Antigravity • Claude Code • Windsurf • OpenAI Codex • OpenClaw • GitHub Copilot
-🎵 Audio & Visual  • FL Studio (Original Game OST & Audio Design) • Krita • Paint.NET • CapCut for media
+🎵 Audio & Visual  • FL Studio (Games OST & Audio Design) • Krita • Paint.NET • CapCut for media
 🌐 Languages       • Russian (Native) • English (Working/B2) • German (Conversational)
 </pre>
 
@@ -35,7 +35,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="26" alt="Git" />
 </p>
 
-### 🤖 AI-Accelerated Workflow
+### 🤖 AI Workflow
 
 <p>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="26" alt="Cursor" />
