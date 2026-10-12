@@ -24,7 +24,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
 
 ---
 
-### 🛠️ Tech Stack & Engineering
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Godot_Engine_4.x-478CBF?style=flat-square&logo=godotengine&logoColor=white" height="26" alt="Godot Engine" />
