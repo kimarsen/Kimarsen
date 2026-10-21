@@ -64,6 +64,7 @@ Passionate about gameplay architecture, indie game development, and deepening sy
   - **Migration & Comprehensive Engineering (Godot Engine):** Carried out the complete project migration from Unreal Engine to Godot Engine 4.x; architected core scenes, modular gameplay systems, UI, and performance optimization.
   - **Mechanics & Systems (Unreal Engine):** Designed and implemented NPC behaviors, quest sequences, and narrative storytelling mechanics.
   - **Audio & Media Direction:** Fully composed and produced the game soundtrack (OST) in FL Studio; created promotional media assets and engaged with the community.
+  - **Web Development:** Rust-powered website about our team and projects with a custom design on Cloudflare — [lunsemo.com](https://lunsemo.com)
   - **Team Tooling & Infrastructure:** Built internal Discord bots and automation scripts to streamline daily team tasks.
 
 #### 🌐 **Independent Projects & Automation**
@@ -133,6 +134,7 @@ Positive, eccentric, and creative 19 y/o software engineering student. Passionat
 #### 🕹️ Опыт и проекты:
 - **[Lunsemo Studio](https://github.com/Lunsemo-Studio) (Core Developer & Композитор):**
   - **[Beneath the Cardboard: Be Happy](https://store.steampowered.com/app/2922710/Beneath_the_Cardboard_Be_Happy/) (Steam):** Перенес проект с Unreal Engine на Godot Engine 4.x и занимался дальнейшей разработкой архитектуры и геймплейных систем. Разрабатывал поведение NPC и квесты. Полностью написал саундтрек игры в FL Studio и готовил медиа-материалы.
+  - **Web-разработка:** сайт на Rust о нашей команде и проектах с собственным дизайном на Cloudflare — [lunsemo.com](https://lunsemo.com)
   - Разработка внутренних Discord-ботов и утилит автоматизации для команды.
 - **Самостоятельная деятельность:**
   - **[File-Forge](https://github.com/kimarsen/File-Forge) (Rust):** Утилита для автоматического отслеживания и пакетной конвертации медиа-файлов через FFmpeg.
